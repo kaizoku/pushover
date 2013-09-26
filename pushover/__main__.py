@@ -1,0 +1,2 @@
+import pushover
+pushover.main()
